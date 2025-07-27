@@ -32,7 +32,7 @@ The goal is to support data-driven decision-making in supply chain design by bal
 
 ## 🗂 File Structure
 
-- `multi_objective_optimization_supply_chain.py` – Core implementation of all four models
+- `goal_vs_weighted_vs_epsilon_vs_lex.py` – Core implementation of all four models
 - No external dataset is used; all parameters are hardcoded for demonstration
 
 ## 🧠 Insights
